@@ -1,0 +1,7238 @@
+{
+    "0": {
+        "name": "New Research",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "1": {
+        "name": "Tarkan (make avail)",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "2": {
+        "name": "Elite Tarkan",
+        "ingame_name": "Elite Tarkan",
+        "wood_cost": "0",
+        "food_cost": "1000",
+        "gold_cost": "500",
+        "stone_cost": "0",
+        "train_time": 45
+    },
+    "3": {
+        "name": "British Yeoman",
+        "ingame_name": "Yeomen",
+        "wood_cost": "750",
+        "food_cost": "0",
+        "gold_cost": "450",
+        "stone_cost": "0",
+        "train_time": 60
+    },
+    "4": {
+        "name": "Mayan El Dorado",
+        "ingame_name": "El Dorado",
+        "wood_cost": "0",
+        "food_cost": "750",
+        "gold_cost": "450",
+        "stone_cost": "0",
+        "train_time": 50
+    },
+    "5": {
+        "name": "Celtic Furor Celtica",
+        "ingame_name": "Furor Celtica",
+        "wood_cost": "0",
+        "food_cost": "750",
+        "gold_cost": "450",
+        "stone_cost": "0",
+        "train_time": 50
+    },
+    "6": {
+        "name": "Mongol Siege Drill",
+        "ingame_name": "Drill",
+        "wood_cost": "500",
+        "food_cost": "0",
+        "gold_cost": "450",
+        "stone_cost": "0",
+        "train_time": 60
+    },
+    "7": {
+        "name": "Persian Mahouts",
+        "ingame_name": "Mahouts",
+        "wood_cost": "0",
+        "food_cost": "300",
+        "gold_cost": "300",
+        "stone_cost": "0",
+        "train_time": 50
+    },
+    "8": {
+        "name": "Town Watch",
+        "ingame_name": "Town Watch",
+        "wood_cost": "0",
+        "food_cost": "75",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 25
+    },
+    "9": {
+        "name": "Saracen Zealotry",
+        "ingame_name": "Zealotry",
+        "wood_cost": "0",
+        "food_cost": "750",
+        "gold_cost": "800",
+        "stone_cost": "0",
+        "train_time": 50
+    },
+    "10": {
+        "name": "Turkish Artillery",
+        "ingame_name": "Artillery",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "500",
+        "stone_cost": "450",
+        "train_time": 40
+    },
+    "11": {
+        "name": "Teuton Crenellations",
+        "ingame_name": "Crenellations",
+        "wood_cost": "0",
+        "food_cost": "600",
+        "gold_cost": "0",
+        "stone_cost": "400",
+        "train_time": 60
+    },
+    "12": {
+        "name": "Crop rotation",
+        "ingame_name": "Crop Rotation",
+        "wood_cost": "250",
+        "food_cost": "250",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 70
+    },
+    "13": {
+        "name": "Heavy plow",
+        "ingame_name": "Heavy Plow",
+        "wood_cost": "125",
+        "food_cost": "125",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 40
+    },
+    "14": {
+        "name": "Horse collar",
+        "ingame_name": "Horse Collar",
+        "wood_cost": "75",
+        "food_cost": "75",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 20
+    },
+    "15": {
+        "name": "Guilds",
+        "ingame_name": "Guilds",
+        "wood_cost": "0",
+        "food_cost": "300",
+        "gold_cost": "200",
+        "stone_cost": "0",
+        "train_time": 50
+    },
+    "16": {
+        "name": "Gothic Anarchy",
+        "ingame_name": "Anarchy",
+        "wood_cost": "0",
+        "food_cost": "450",
+        "gold_cost": "250",
+        "stone_cost": "0",
+        "train_time": 40
+    },
+    "17": {
+        "name": "Banking",
+        "ingame_name": "Banking",
+        "wood_cost": "0",
+        "food_cost": "300",
+        "gold_cost": "200",
+        "stone_cost": "0",
+        "train_time": 70
+    },
+    "18": {
+        "name": "Barracks Huskarls",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "19": {
+        "name": "Cartography",
+        "ingame_name": "Cartography",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 1
+    },
+    "20": {
+        "name": "Auto upgrade Scout Feudal Age",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "21": {
+        "name": "Hun Atheism",
+        "ingame_name": "Atheism",
+        "wood_cost": "0",
+        "food_cost": "500",
+        "gold_cost": "500",
+        "stone_cost": "0",
+        "train_time": 60
+    },
+    "22": {
+        "name": "Loom",
+        "ingame_name": "Loom",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "50",
+        "stone_cost": "0",
+        "train_time": 25
+    },
+    "23": {
+        "name": "Coinage",
+        "ingame_name": "Coinage",
+        "wood_cost": "0",
+        "food_cost": "200",
+        "gold_cost": "100",
+        "stone_cost": "0",
+        "train_time": 70
+    },
+    "24": {
+        "name": "Aztec Garland Wars",
+        "ingame_name": "Garland Wars",
+        "wood_cost": "0",
+        "food_cost": "450",
+        "gold_cost": "750",
+        "stone_cost": "0",
+        "train_time": 60
+    },
+    "25": {
+        "name": "STBL (make avail)",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "26": {
+        "name": "Plumed Archer (make avail)",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "27": {
+        "name": "Elite Plumed Archer",
+        "ingame_name": "Elite Plumed Archer",
+        "wood_cost": "1000",
+        "food_cost": "700",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 45
+    },
+    "28": {
+        "name": "Compass",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "1",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 5
+    },
+    "29": {
+        "name": "C-Bonus, +5 monk HP",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "30": {
+        "name": "C-Bonus, +5 monk HP",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "31": {
+        "name": "C-Bonus, +5 monk HP",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "32": {
+        "name": "C-Bonus, +5 monk HP",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "33": {
+        "name": "C-Bonus, +5 monk HP",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "34": {
+        "name": "War Galley",
+        "ingame_name": "War Galley",
+        "wood_cost": "0",
+        "food_cost": "230",
+        "gold_cost": "100",
+        "stone_cost": "0",
+        "train_time": 50
+    },
+    "35": {
+        "name": "Galleon",
+        "ingame_name": "Galleon",
+        "wood_cost": "315",
+        "food_cost": "400",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 65
+    },
+    "36": {
+        "name": "C-Bonus, +5 monk HP",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "37": {
+        "name": "Cannon Galleon",
+        "ingame_name": "Cannon Galleon",
+        "wood_cost": "500",
+        "food_cost": "400",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 50
+    },
+    "38": {
+        "name": "C-Bonus, +5 monk HP",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "39": {
+        "name": "Husbandry",
+        "ingame_name": "Husbandry",
+        "wood_cost": "0",
+        "food_cost": "150",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 40
+    },
+    "40": {
+        "name": "C-Bonus, +5 monk HP",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "41": {
+        "name": "C-Bonus, +5 monk HP",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "42": {
+        "name": "C-Bonus, +1 inf attk",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "43": {
+        "name": "C-Bonus, +1 inf attk",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "44": {
+        "name": "C-Bonus, +1 inf attk",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "45": {
+        "name": "Faith",
+        "ingame_name": "Faith",
+        "wood_cost": "0",
+        "food_cost": "750",
+        "gold_cost": "1000",
+        "stone_cost": "0",
+        "train_time": 60
+    },
+    "46": {
+        "name": "Block printing",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "200",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 60
+    },
+    "47": {
+        "name": "Chemistry",
+        "ingame_name": "Chemistry",
+        "wood_cost": "0",
+        "food_cost": "300",
+        "gold_cost": "200",
+        "stone_cost": "0",
+        "train_time": 100
+    },
+    "48": {
+        "name": "Caravan",
+        "ingame_name": "Caravan",
+        "wood_cost": "0",
+        "food_cost": "200",
+        "gold_cost": "200",
+        "stone_cost": "0",
+        "train_time": 40
+    },
+    "49": {
+        "name": "Viking Berserkergang",
+        "ingame_name": "Berserkergang",
+        "wood_cost": "0",
+        "food_cost": "850",
+        "gold_cost": "400",
+        "stone_cost": "0",
+        "train_time": 40
+    },
+    "50": {
+        "name": "Masonry",
+        "ingame_name": "Masonry",
+        "wood_cost": "175",
+        "food_cost": "150",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 50
+    },
+    "51": {
+        "name": "Architecture",
+        "ingame_name": "Architecture",
+        "wood_cost": "200",
+        "food_cost": "300",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 70
+    },
+    "52": {
+        "name": "Chinese Rocketry",
+        "ingame_name": "Rocketry",
+        "wood_cost": "750",
+        "food_cost": "0",
+        "gold_cost": "750",
+        "stone_cost": "0",
+        "train_time": 60
+    },
+    "53": {
+        "name": "C-Bonus, -20% archer cost",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "54": {
+        "name": "Stone cutting",
+        "ingame_name": "Treadmill Crane",
+        "wood_cost": "200",
+        "food_cost": "300",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 50
+    },
+    "55": {
+        "name": "Gold Mining",
+        "ingame_name": "Gold Mining",
+        "wood_cost": "75",
+        "food_cost": "100",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 30
+    },
+    "56": {
+        "name": "C-Bonus, -30% archer cost",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "57": {
+        "name": "Spanish Cannon Galleon",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "58": {
+        "name": "Conquistador (make avail)",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "59": {
+        "name": "Japanese Kataparuto",
+        "ingame_name": "Kataparuto",
+        "wood_cost": "750",
+        "food_cost": "0",
+        "gold_cost": "400",
+        "stone_cost": "0",
+        "train_time": 60
+    },
+    "60": {
+        "name": "Elite Conquistador",
+        "ingame_name": "Elite Conquistador",
+        "wood_cost": "0",
+        "food_cost": "1200",
+        "gold_cost": "600",
+        "stone_cost": "0",
+        "train_time": 60
+    },
+    "61": {
+        "name": "Byzantine Logistica",
+        "ingame_name": "Logistica",
+        "wood_cost": "0",
+        "food_cost": "1000",
+        "gold_cost": "600",
+        "stone_cost": "0",
+        "train_time": 50
+    },
+    "62": {
+        "name": "New Research",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "63": {
+        "name": "Keep",
+        "ingame_name": "Keep",
+        "wood_cost": "350",
+        "food_cost": "500",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 75
+    },
+    "64": {
+        "name": "Bombard Tower",
+        "ingame_name": "Bombard Tower",
+        "wood_cost": "400",
+        "food_cost": "800",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 60
+    },
+    "65": {
+        "name": "Gillnets",
+        "ingame_name": "Gillnets",
+        "wood_cost": "200",
+        "food_cost": "150",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 45
+    },
+    "66": {
+        "name": "New Research",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "67": {
+        "name": "Forging",
+        "ingame_name": "Forging",
+        "wood_cost": "0",
+        "food_cost": "150",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 50
+    },
+    "68": {
+        "name": "Iron casting",
+        "ingame_name": "Iron Casting",
+        "wood_cost": "0",
+        "food_cost": "220",
+        "gold_cost": "120",
+        "stone_cost": "0",
+        "train_time": 75
+    },
+    "69": {
+        "name": "C-Bonus, +2 vs Animals",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "70": {
+        "name": "C-Bonus, start with eagle",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "71": {
+        "name": "Walls HP castle age",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "72": {
+        "name": "Walls HP imperial age",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "73": {
+        "name": "New Research",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "74": {
+        "name": "Scale Mail Armor",
+        "ingame_name": "Scale Mail Armor",
+        "wood_cost": "0",
+        "food_cost": "100",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 40
+    },
+    "75": {
+        "name": "Blast Furnace",
+        "ingame_name": "Blast Furnace",
+        "wood_cost": "0",
+        "food_cost": "275",
+        "gold_cost": "225",
+        "stone_cost": "0",
+        "train_time": 100
+    },
+    "76": {
+        "name": "Chain Mail Armor",
+        "ingame_name": "Chain Mail Armor",
+        "wood_cost": "0",
+        "food_cost": "200",
+        "gold_cost": "100",
+        "stone_cost": "0",
+        "train_time": 55
+    },
+    "77": {
+        "name": "Plate Mail Armor",
+        "ingame_name": "Plate Mail Armor",
+        "wood_cost": "0",
+        "food_cost": "300",
+        "gold_cost": "150",
+        "stone_cost": "0",
+        "train_time": 70
+    },
+    "78": {
+        "name": "New Research",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "79": {
+        "name": "New Research",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "80": {
+        "name": "Plate Barding Armor",
+        "ingame_name": "Plate Barding Armor",
+        "wood_cost": "0",
+        "food_cost": "350",
+        "gold_cost": "200",
+        "stone_cost": "0",
+        "train_time": 75
+    },
+    "81": {
+        "name": "Scale Barding Armor",
+        "ingame_name": "Scale Barding Armor",
+        "wood_cost": "0",
+        "food_cost": "150",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 45
+    },
+    "82": {
+        "name": "Chain Barding Armor",
+        "ingame_name": "Chain Barding Armor",
+        "wood_cost": "0",
+        "food_cost": "250",
+        "gold_cost": "150",
+        "stone_cost": "0",
+        "train_time": 60
+    },
+    "83": {
+        "name": "Frankish Bearded Axe",
+        "ingame_name": "Bearded Axe",
+        "wood_cost": "0",
+        "food_cost": "400",
+        "gold_cost": "400",
+        "stone_cost": "0",
+        "train_time": 60
+    },
+    "84": {
+        "name": "Missionary (avail)",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "85": {
+        "name": "Hand Cannoneer",
+        "ingame_name": "Hand Cannon",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "86": {
+        "name": "New Research",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "87": {
+        "name": "Pike",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "88": {
+        "name": "X Patch Disabler",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "89": {
+        "name": "X Patch Trade Change",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "90": {
+        "name": "Tracking",
+        "ingame_name": "Tracking",
+        "wood_cost": "0",
+        "food_cost": "50",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 35
+    },
+    "91": {
+        "name": "New Research",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "92": {
+        "name": "New Research",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "93": {
+        "name": "Ballistics",
+        "ingame_name": "Ballistics",
+        "wood_cost": "300",
+        "food_cost": "0",
+        "gold_cost": "175",
+        "stone_cost": "0",
+        "train_time": 60
+    },
+    "94": {
+        "name": "Scorpion",
+        "ingame_name": "Scorpion",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "95": {
+        "name": "C-Bonus: free Hussars",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "96": {
+        "name": "Capped Ram",
+        "ingame_name": "Capped Ram",
+        "wood_cost": "0",
+        "food_cost": "300",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 50
+    },
+    "97": {
+        "name": "New Research",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "98": {
+        "name": "Elite Skirmisher",
+        "ingame_name": "Elite Skirmisher",
+        "wood_cost": "200",
+        "food_cost": "0",
+        "gold_cost": "100",
+        "stone_cost": "0",
+        "train_time": 50
+    },
+    "99": {
+        "name": "Crossbow",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "100": {
+        "name": "Crossbow",
+        "ingame_name": "Crossbowman",
+        "wood_cost": "0",
+        "food_cost": "125",
+        "gold_cost": "75",
+        "stone_cost": "0",
+        "train_time": 35
+    },
+    "101": {
+        "name": "Middle Age",
+        "ingame_name": "Feudal Age",
+        "wood_cost": "0",
+        "food_cost": "500",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 130
+    },
+    "102": {
+        "name": "Feudal Age",
+        "ingame_name": "Castle Age",
+        "wood_cost": "0",
+        "food_cost": "800",
+        "gold_cost": "200",
+        "stone_cost": "0",
+        "train_time": 160
+    },
+    "103": {
+        "name": "Imperial Age",
+        "ingame_name": "Imperial Age",
+        "wood_cost": "0",
+        "food_cost": "1000",
+        "gold_cost": "800",
+        "stone_cost": "0",
+        "train_time": 190
+    },
+    "104": {
+        "name": "Dark Age",
+        "ingame_name": "Dark Age",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "105": {
+        "name": "New Research",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "106": {
+        "name": "Shadow Blacksmith -- Age One",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "107": {
+        "name": "Shadow Church -- Age One",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "108": {
+        "name": "Shadow Dock -- Age One",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "109": {
+        "name": "Farm -- Age One",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "110": {
+        "name": "Shadow Mill -- Age One",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "111": {
+        "name": "Camelry",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "200",
+        "gold_cost": "100",
+        "stone_cost": "0",
+        "train_time": 40
+    },
+    "112": {
+        "name": "Fishing Ship",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "113": {
+        "name": "New Research",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "114": {
+        "name": "Spearman",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "115": {
+        "name": "New Research",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "116": {
+        "name": "Villager",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "117": {
+        "name": "Palisade Wall",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "118": {
+        "name": "TC -- Age One",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "119": {
+        "name": "New Research",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "120": {
+        "name": "Shadow Node for Age Two",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "121": {
+        "name": "New Research",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "122": {
+        "name": "Shadow Barracks -- Age Two",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "123": {
+        "name": "Shadow Blacksmith -- Age Two",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "124": {
+        "name": "Shadow Church -- Age Two",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "125": {
+        "name": "Shadow Dock -- Age Two",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "126": {
+        "name": "Shadow Farm -- Age Two",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "127": {
+        "name": "Watch Tower (make avail)",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "128": {
+        "name": "Shadow Market -- Age Two",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "129": {
+        "name": "Shadow Mill -- Age Two",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "130": {
+        "name": "Stable -- Age Two",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "131": {
+        "name": "Shadow Trade Wksp -- Age Two",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "132": {
+        "name": "Shadow Archery Rg -- Age Two",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "133": {
+        "name": "New Research",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "134": {
+        "name": "Archery Rg Upgrade -- Age Two",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "135": {
+        "name": "Shadow Node for Age Three",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "136": {
+        "name": "New Research",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "137": {
+        "name": "Castle -- Age Three",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "138": {
+        "name": "ShadowSiege Wrksp -- Age Three",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "139": {
+        "name": "New Research",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "140": {
+        "name": "Guard Tower",
+        "ingame_name": "Guard Tower",
+        "wood_cost": "250",
+        "food_cost": "100",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 30
+    },
+    "141": {
+        "name": "New Research",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "142": {
+        "name": "Shadow Node for Age Four",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "143": {
+        "name": "Shadow Tower -- Age Four",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "300",
+        "train_time": 100
+    },
+    "144": {
+        "name": "Wonder Plans",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "145": {
+        "name": "New Research",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "146": {
+        "name": "Shadow University -- Age Three",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "147": {
+        "name": "ARRG (make avail)",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "148": {
+        "name": "MRKT TDWS (make avail)",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "149": {
+        "name": "Siege Wksp (make avail)",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "150": {
+        "name": "Univ (make avail)",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "151": {
+        "name": "Archer (make avail)",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "152": {
+        "name": "Cutting Research",
+        "ingame_name": "Uprooting",
+        "wood_cost": "0",
+        "food_cost": "1450",
+        "gold_cost": "1000",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "153": {
+        "name": "Auto Onager Cutting",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "154": {
+        "name": "Onager Cutting",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "155": {
+        "name": "Cutting Research Disabler",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "156": {
+        "name": "Lance Cav (make avail)",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "157": {
+        "name": "Monk (make avail)",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "158": {
+        "name": "Pikeman (make avail)",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "159": {
+        "name": "New Research",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "160": {
+        "name": "Swordsman (make avail)",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "161": {
+        "name": "Trade Cart (make avail)",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "162": {
+        "name": "Bat Ram (make avail)",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "163": {
+        "name": "New Research",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "164": {
+        "name": "New Research",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "165": {
+        "name": "New Research",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "166": {
+        "name": "Knight (make avail)",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "167": {
+        "name": "Fire Ship Disabler",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "168": {
+        "name": "Demo Ship Disabler",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "169": {
+        "name": "New Research",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "170": {
+        "name": "New Research",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "171": {
+        "name": "New Research",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "172": {
+        "name": "Bombard (make avail)",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "173": {
+        "name": "New Research",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "174": {
+        "name": "Hand Cannon (make avail)",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "175": {
+        "name": "Paladin (make avail)",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "176": {
+        "name": "New Research",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "177": {
+        "name": "New Research",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "178": {
+        "name": "All Ages",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "179": {
+        "name": "New Research",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "180": {
+        "name": "Cog",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "181": {
+        "name": "New Research",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "182": {
+        "name": "Gold Shaft Mining",
+        "ingame_name": "Gold Shaft Mining",
+        "wood_cost": "150",
+        "food_cost": "200",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 75
+    },
+    "183": {
+        "name": "New Research",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "184": {
+        "name": "New Research",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "185": {
+        "name": "New Research",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "186": {
+        "name": "2H Swordsmn (make avail)",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "187": {
+        "name": "R TC (make avail)",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "188": {
+        "name": "Bombard Cannon",
+        "ingame_name": "Bombard Cannon",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "189": {
+        "name": "Wall 2 (make avail)",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "190": {
+        "name": "New Research",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "191": {
+        "name": "New Research",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "192": {
+        "name": "Cav Archer (make avail)",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "193": {
+        "name": "New Research",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "194": {
+        "name": "Fortified Wall",
+        "ingame_name": "Fortified Wall",
+        "wood_cost": "100",
+        "food_cost": "200",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 50
+    },
+    "195": {
+        "name": "New Research",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "196": {
+        "name": "New Research",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "197": {
+        "name": "Pikeman",
+        "ingame_name": "Pikeman",
+        "wood_cost": "0",
+        "food_cost": "215",
+        "gold_cost": "90",
+        "stone_cost": "0",
+        "train_time": 45
+    },
+    "198": {
+        "name": "New Research",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "199": {
+        "name": "Fletching",
+        "ingame_name": "Fletching",
+        "wood_cost": "0",
+        "food_cost": "100",
+        "gold_cost": "50",
+        "stone_cost": "0",
+        "train_time": 30
+    },
+    "200": {
+        "name": "Bodkin Arrow",
+        "ingame_name": "Bodkin Arrow",
+        "wood_cost": "0",
+        "food_cost": "200",
+        "gold_cost": "100",
+        "stone_cost": "0",
+        "train_time": 35
+    },
+    "201": {
+        "name": "Bracer",
+        "ingame_name": "Bracer",
+        "wood_cost": "0",
+        "food_cost": "300",
+        "gold_cost": "200",
+        "stone_cost": "0",
+        "train_time": 40
+    },
+    "202": {
+        "name": "Double Bit Axe",
+        "ingame_name": "Double-Bit Axe",
+        "wood_cost": "50",
+        "food_cost": "100",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 25
+    },
+    "203": {
+        "name": "Bow Saw",
+        "ingame_name": "Bow Saw",
+        "wood_cost": "100",
+        "food_cost": "150",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 50
+    },
+    "204": {
+        "name": "Scout (make avail)",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "205": {
+        "name": "New Research",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "206": {
+        "name": "New Research",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "207": {
+        "name": "Long Swordsman",
+        "ingame_name": "Long Swordsman",
+        "wood_cost": "0",
+        "food_cost": "200",
+        "gold_cost": "65",
+        "stone_cost": "0",
+        "train_time": 45
+    },
+    "208": {
+        "name": "New Research",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "209": {
+        "name": "Cavalier",
+        "ingame_name": "Cavalier",
+        "wood_cost": "0",
+        "food_cost": "300",
+        "gold_cost": "300",
+        "stone_cost": "0",
+        "train_time": 100
+    },
+    "210": {
+        "name": "Church (make avail)",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "211": {
+        "name": "Padded Archer Armor",
+        "ingame_name": "Padded Archer Armor",
+        "wood_cost": "0",
+        "food_cost": "100",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 40
+    },
+    "212": {
+        "name": "Leather Archer Armor",
+        "ingame_name": "Leather Archer Armor",
+        "wood_cost": "0",
+        "food_cost": "150",
+        "gold_cost": "150",
+        "stone_cost": "0",
+        "train_time": 55
+    },
+    "213": {
+        "name": "Wheel Barrow",
+        "ingame_name": "Wheelbarrow",
+        "wood_cost": "50",
+        "food_cost": "175",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 75
+    },
+    "214": {
+        "name": "New Research",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "215": {
+        "name": "Squires",
+        "ingame_name": "Squires",
+        "wood_cost": "0",
+        "food_cost": "100",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 40
+    },
+    "216": {
+        "name": "Farms (make avail)",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "217": {
+        "name": "Two-Handed Swordsman",
+        "ingame_name": "Two-Handed Swordsman",
+        "wood_cost": "0",
+        "food_cost": "300",
+        "gold_cost": "100",
+        "stone_cost": "0",
+        "train_time": 75
+    },
+    "218": {
+        "name": "Heavy Cavalry Archer",
+        "ingame_name": "Heavy Cav Archer",
+        "wood_cost": "0",
+        "food_cost": "900",
+        "gold_cost": "500",
+        "stone_cost": "0",
+        "train_time": 50
+    },
+    "219": {
+        "name": "Ring Archer Armor",
+        "ingame_name": "Ring Archer Armor",
+        "wood_cost": "0",
+        "food_cost": "250",
+        "gold_cost": "250",
+        "stone_cost": "0",
+        "train_time": 70
+    },
+    "220": {
+        "name": "Barracks (make avail)",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "221": {
+        "name": "Two Man Saw",
+        "ingame_name": "Two-Man Saw",
+        "wood_cost": "200",
+        "food_cost": "300",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 100
+    },
+    "222": {
+        "name": "Man-At-Arms",
+        "ingame_name": "Man-at-Arms",
+        "wood_cost": "0",
+        "food_cost": "100",
+        "gold_cost": "40",
+        "stone_cost": "0",
+        "train_time": 40
+    },
+    "223": {
+        "name": "Castle Coinage Disabler",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "224": {
+        "name": "Imp Coinage Disabler",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "225": {
+        "name": "Imp Banking Disabler",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "226": {
+        "name": "Castle Coinage",
+        "ingame_name": "Coinage",
+        "wood_cost": "0",
+        "food_cost": "200",
+        "gold_cost": "100",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "227": {
+        "name": "Imp Coinage",
+        "ingame_name": "Coinage",
+        "wood_cost": "0",
+        "food_cost": "200",
+        "gold_cost": "100",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "228": {
+        "name": "Imp Banking",
+        "ingame_name": "Banking",
+        "wood_cost": "0",
+        "food_cost": "300",
+        "gold_cost": "200",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "229": {
+        "name": "New Research",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "230": {
+        "name": "Block Printing",
+        "ingame_name": "Block Printing",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "200",
+        "stone_cost": "0",
+        "train_time": 55
+    },
+    "231": {
+        "name": "Sanctity",
+        "ingame_name": "Sanctity",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "120",
+        "stone_cost": "0",
+        "train_time": 60
+    },
+    "232": {
+        "name": "New Research",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "233": {
+        "name": "Illumination",
+        "ingame_name": "Illumination",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "120",
+        "stone_cost": "0",
+        "train_time": 65
+    },
+    "234": {
+        "name": "Conversion enabler",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "235": {
+        "name": "Make Camels Available",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "236": {
+        "name": "Heavy Camel",
+        "ingame_name": "Heavy Camel",
+        "wood_cost": "0",
+        "food_cost": "325",
+        "gold_cost": "360",
+        "stone_cost": "0",
+        "train_time": 105
+    },
+    "237": {
+        "name": "Arbalest",
+        "ingame_name": "Arbalest",
+        "wood_cost": "0",
+        "food_cost": "350",
+        "gold_cost": "300",
+        "stone_cost": "0",
+        "train_time": 50
+    },
+    "238": {
+        "name": "New Research",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "239": {
+        "name": "Heavy Scorpion",
+        "ingame_name": "Heavy Scorpion",
+        "wood_cost": "1100",
+        "food_cost": "1000",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 50
+    },
+    "240": {
+        "name": "Make Scout Ship Avail",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "241": {
+        "name": "New Research",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "242": {
+        "name": "Demo Ship (make avail)",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "243": {
+        "name": "Fire Ship (make avail)",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "244": {
+        "name": "Heavy Demolition",
+        "ingame_name": "Heavy Demolition Ship",
+        "wood_cost": "200",
+        "food_cost": "0",
+        "gold_cost": "300",
+        "stone_cost": "0",
+        "train_time": 50
+    },
+    "245": {
+        "name": "New Research",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "246": {
+        "name": "Fast Fire Ship",
+        "ingame_name": "Fast Fire Ship",
+        "wood_cost": "280",
+        "food_cost": "0",
+        "gold_cost": "250",
+        "stone_cost": "0",
+        "train_time": 50
+    },
+    "247": {
+        "name": "New Research",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "248": {
+        "name": "New Research",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "249": {
+        "name": "Hand Cart",
+        "ingame_name": "Hand Cart",
+        "wood_cost": "200",
+        "food_cost": "300",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 55
+    },
+    "250": {
+        "name": "New Research",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "251": {
+        "name": "New Research",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "252": {
+        "name": "Fervor",
+        "ingame_name": "Fervor",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "140",
+        "stone_cost": "0",
+        "train_time": 50
+    },
+    "253": {
+        "name": "New Research",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "254": {
+        "name": "Light Cavalry",
+        "ingame_name": "Light Cavalry",
+        "wood_cost": "0",
+        "food_cost": "150",
+        "gold_cost": "50",
+        "stone_cost": "0",
+        "train_time": 45
+    },
+    "255": {
+        "name": "Siege Ram",
+        "ingame_name": "Siege Ram",
+        "wood_cost": "0",
+        "food_cost": "1000",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 75
+    },
+    "256": {
+        "name": "Trebuchet",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "257": {
+        "name": "Onager",
+        "ingame_name": "Onager",
+        "wood_cost": "0",
+        "food_cost": "800",
+        "gold_cost": "500",
+        "stone_cost": "0",
+        "train_time": 75
+    },
+    "258": {
+        "name": "Shadow Saw Mill 1",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "259": {
+        "name": "New Research",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "260": {
+        "name": "New Research",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "261": {
+        "name": "Transport (make avail)",
+        "ingame_name": "Maghrabi Camels",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "262": {
+        "name": "Samurai (make avail)",
+        "ingame_name": "Farimba",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "263": {
+        "name": "Longbow (make avail)",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "264": {
+        "name": "Champion",
+        "ingame_name": "Champion",
+        "wood_cost": "0",
+        "food_cost": "750",
+        "gold_cost": "350",
+        "stone_cost": "0",
+        "train_time": 100
+    },
+    "265": {
+        "name": "Paladin",
+        "ingame_name": "Paladin",
+        "wood_cost": "0",
+        "food_cost": "1300",
+        "gold_cost": "750",
+        "stone_cost": "0",
+        "train_time": 170
+    },
+    "266": {
+        "name": "Castle built",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "267": {
+        "name": "Cataphract (make avail)",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "268": {
+        "name": "Chu-Ko-Nu (make avail)",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "269": {
+        "name": "Mameluke (make avail)",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "270": {
+        "name": "Berserker (make avail)",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "271": {
+        "name": "Jannisary (make avail)",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "272": {
+        "name": "Longboat (make avail)",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "273": {
+        "name": "Mobile Siege Unit (make avail)",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "274": {
+        "name": "War Elephant (make avail)",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "275": {
+        "name": "Throwing Axemen (make avail)",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "276": {
+        "name": "Teutonic Knight (make avail)",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "277": {
+        "name": "Woad Berserker (make avail)",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "278": {
+        "name": "Stone Mining",
+        "ingame_name": "Stone Mining",
+        "wood_cost": "75",
+        "food_cost": "100",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 30
+    },
+    "279": {
+        "name": "Stone Shaft Mining",
+        "ingame_name": "Stone Shaft Mining",
+        "wood_cost": "150",
+        "food_cost": "200",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 75
+    },
+    "280": {
+        "name": "Town Patrol",
+        "ingame_name": "Town Patrol",
+        "wood_cost": "0",
+        "food_cost": "300",
+        "gold_cost": "100",
+        "stone_cost": "0",
+        "train_time": 40
+    },
+    "281": {
+        "name": "Blacksmith (make avail)",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "282": {
+        "name": "Mine has been built",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "283": {
+        "name": "C-Bonus, Building HP x1.5",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "284": {
+        "name": "C-Bonus, Unit Cost 1",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "285": {
+        "name": "C-Bonus, Free Chemistry",
+        "ingame_name": "Tusk Swords",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "286": {
+        "name": "C-Bonus, Unit Cost 2",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "287": {
+        "name": "C-Bonus, Free Farming 1",
+        "ingame_name": "Double Crossbow",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "288": {
+        "name": "C-Bonus, Free Farming 2",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "289": {
+        "name": "C-Bonus, Free Farming 3",
+        "ingame_name": "Forced Levy",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "290": {
+        "name": "C-Bonus, Siege Fire Rate",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "291": {
+        "name": "C-Bonus, Infantry 50%",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "292": {
+        "name": "New Research",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "293": {
+        "name": "C-Bonus, Cog+Fish Ship Speed",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "294": {
+        "name": "C-Bonus, Conversion Resistance",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "295": {
+        "name": "New Research",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "296": {
+        "name": "New Research",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "297": {
+        "name": "New Research",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "298": {
+        "name": "New Research",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "299": {
+        "name": "New Research",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "300": {
+        "name": "C-Bonus, Mining +15%",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "301": {
+        "name": "C-Bonus, Gunpowder +50% HP",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "302": {
+        "name": "C-Bonus, Start w/ 6 villagers",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "303": {
+        "name": "New Research",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "304": {
+        "name": "C-Bonus, Techs -15% cost",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "305": {
+        "name": "New Research",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "306": {
+        "name": "C-Bonus, Archers +20% attack",
+        "ingame_name": "Paper Money",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "307": {
+        "name": "New Research",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "308": {
+        "name": "New Research",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "309": {
+        "name": "New Research",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "310": {
+        "name": "New Research",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "311": {
+        "name": "New Research",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "312": {
+        "name": "C-Bonus, Cav Archer",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "313": {
+        "name": "New Research",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "314": {
+        "name": "C-Bonus, Super Palisade",
+        "ingame_name": "Elite Rattan Archer",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "315": {
+        "name": "Conscription",
+        "ingame_name": "Conscription",
+        "wood_cost": "0",
+        "food_cost": "150",
+        "gold_cost": "150",
+        "stone_cost": "0",
+        "train_time": 60
+    },
+    "316": {
+        "name": "Redemption",
+        "ingame_name": "Redemption",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "475",
+        "stone_cost": "0",
+        "train_time": 50
+    },
+    "317": {
+        "name": "Convert Ships",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "318": {
+        "name": "New Research",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "319": {
+        "name": "Atonement",
+        "ingame_name": "Atonement",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "325",
+        "stone_cost": "0",
+        "train_time": 40
+    },
+    "320": {
+        "name": "Siege Onager",
+        "ingame_name": "Siege Onager",
+        "wood_cost": "0",
+        "food_cost": "1450",
+        "gold_cost": "1000",
+        "stone_cost": "0",
+        "train_time": 150
+    },
+    "321": {
+        "name": "Sappers",
+        "ingame_name": "Sappers",
+        "wood_cost": "0",
+        "food_cost": "400",
+        "gold_cost": "200",
+        "stone_cost": "0",
+        "train_time": 10
+    },
+    "322": {
+        "name": "Murder Holes",
+        "ingame_name": "Murder Holes",
+        "wood_cost": "0",
+        "food_cost": "200",
+        "gold_cost": "0",
+        "stone_cost": "100",
+        "train_time": 60
+    },
+    "323": {
+        "name": "New Research",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "324": {
+        "name": "New Research",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "325": {
+        "name": "C-Bonus, Castle 1/2 Cost",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "326": {
+        "name": "New Research",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "327": {
+        "name": "C-Bonus, Inf v Building",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "328": {
+        "name": "New Research",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "329": {
+        "name": "New Research",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "330": {
+        "name": "New Research",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "331": {
+        "name": "C-Bonus, House Cost / Time",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "332": {
+        "name": "Outpost (make avail)",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "333": {
+        "name": "C-Bonus, Tower Arrows",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "334": {
+        "name": "New Research",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "335": {
+        "name": "New Research",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "336": {
+        "name": "C-Bonus, TC + Atk",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "337": {
+        "name": "C-Bonus, Spr Xport Ship",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "338": {
+        "name": "C-Bonus, Arc Accuracy",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "339": {
+        "name": "C-Bonus, Ship LOS",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "340": {
+        "name": "C-Bonus, Gather Price",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "341": {
+        "name": "C-Bonus, Inf Attack Spd",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "342": {
+        "name": "C-Bonus, TC Productivity",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "343": {
+        "name": "C-Bonus, Unit Cost 15%",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "344": {
+        "name": "C-Bonus, Unit Cost 25%",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "345": {
+        "name": "C-Bonus, Unit Cost 35%",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "346": {
+        "name": "C-Bonus, Unit Cost 50%",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "347": {
+        "name": "C-Bonus, Monk Heal Range",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "348": {
+        "name": "New Research",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "349": {
+        "name": "C-Bonus, Super Dock",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "350": {
+        "name": "C-Bonus, Tec Cost",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "351": {
+        "name": "C-Bonus, Tec Cost",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "352": {
+        "name": "C-Bonus, Tec Cost",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "353": {
+        "name": "C-Bonus, Tower Arrows",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "354": {
+        "name": "Turk Castle",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "355": {
+        "name": "C-Bonus, Market",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "356": {
+        "name": "C-Bonus, 1/2 Price Techs",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "357": {
+        "name": "Fish Trap (make avail)",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "358": {
+        "name": "Mangonel",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "359": {
+        "name": "Sub-Shadow Age4",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "360": {
+        "name": "Elite Longbow",
+        "ingame_name": "Elite Longbowman",
+        "wood_cost": "0",
+        "food_cost": "850",
+        "gold_cost": "850",
+        "stone_cost": "0",
+        "train_time": 60
+    },
+    "361": {
+        "name": "Elite Cataphract",
+        "ingame_name": "Elite Cataphract",
+        "wood_cost": "0",
+        "food_cost": "1600",
+        "gold_cost": "800",
+        "stone_cost": "0",
+        "train_time": 50
+    },
+    "362": {
+        "name": "Elite Chu Ko Nu",
+        "ingame_name": "Elite Chu Ko Nu",
+        "wood_cost": "0",
+        "food_cost": "950",
+        "gold_cost": "950",
+        "stone_cost": "0",
+        "train_time": 50
+    },
+    "363": {
+        "name": "Elite Throwing Axemen",
+        "ingame_name": "Elite Throwing Axeman",
+        "wood_cost": "0",
+        "food_cost": "1000",
+        "gold_cost": "750",
+        "stone_cost": "0",
+        "train_time": 45
+    },
+    "364": {
+        "name": "Elite Teutonic Knight",
+        "ingame_name": "Elite Teutonic Knight",
+        "wood_cost": "0",
+        "food_cost": "1200",
+        "gold_cost": "600",
+        "stone_cost": "0",
+        "train_time": 50
+    },
+    "365": {
+        "name": "Elite Huskarl",
+        "ingame_name": "Elite Huskarl",
+        "wood_cost": "0",
+        "food_cost": "1200",
+        "gold_cost": "550",
+        "stone_cost": "0",
+        "train_time": 40
+    },
+    "366": {
+        "name": "Elite Samurai",
+        "ingame_name": "Elite Samurai",
+        "wood_cost": "0",
+        "food_cost": "950",
+        "gold_cost": "875",
+        "stone_cost": "0",
+        "train_time": 60
+    },
+    "367": {
+        "name": "Elite War Elephant",
+        "ingame_name": "Elite War Elephant",
+        "wood_cost": "0",
+        "food_cost": "1600",
+        "gold_cost": "1200",
+        "stone_cost": "0",
+        "train_time": 75
+    },
+    "368": {
+        "name": "Elite Mameluke",
+        "ingame_name": "Elite Mameluke",
+        "wood_cost": "0",
+        "food_cost": "600",
+        "gold_cost": "500",
+        "stone_cost": "0",
+        "train_time": 50
+    },
+    "369": {
+        "name": "Elite Jannisary",
+        "ingame_name": "Elite Janissary",
+        "wood_cost": "0",
+        "food_cost": "850",
+        "gold_cost": "750",
+        "stone_cost": "0",
+        "train_time": 55
+    },
+    "370": {
+        "name": "Elite Woad Raider",
+        "ingame_name": "Elite Woad Raider",
+        "wood_cost": "0",
+        "food_cost": "1000",
+        "gold_cost": "800",
+        "stone_cost": "0",
+        "train_time": 45
+    },
+    "371": {
+        "name": "Elite Mangudai",
+        "ingame_name": "Elite Mangudai",
+        "wood_cost": "0",
+        "food_cost": "1100",
+        "gold_cost": "675",
+        "stone_cost": "0",
+        "train_time": 50
+    },
+    "372": {
+        "name": "Unique Heroic Viking LBT",
+        "ingame_name": "Elite Longboat",
+        "wood_cost": "0",
+        "food_cost": "750",
+        "gold_cost": "475",
+        "stone_cost": "0",
+        "train_time": 60
+    },
+    "373": {
+        "name": "Shipwright",
+        "ingame_name": "Shipwright",
+        "wood_cost": "0",
+        "food_cost": "1000",
+        "gold_cost": "300",
+        "stone_cost": "0",
+        "train_time": 60
+    },
+    "374": {
+        "name": "Careening",
+        "ingame_name": "Careening",
+        "wood_cost": "0",
+        "food_cost": "250",
+        "gold_cost": "150",
+        "stone_cost": "0",
+        "train_time": 50
+    },
+    "375": {
+        "name": "Dry Dock",
+        "ingame_name": "Dry Dock",
+        "wood_cost": "0",
+        "food_cost": "600",
+        "gold_cost": "400",
+        "stone_cost": "0",
+        "train_time": 60
+    },
+    "376": {
+        "name": "Elite Cannon Galley",
+        "ingame_name": "Elite Cannon Galleon",
+        "wood_cost": "525",
+        "food_cost": "0",
+        "gold_cost": "500",
+        "stone_cost": "0",
+        "train_time": 30
+    },
+    "377": {
+        "name": "Siege Engineers",
+        "ingame_name": "Siege Engineers",
+        "wood_cost": "600",
+        "food_cost": "500",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 45
+    },
+    "378": {
+        "name": "New Research",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "379": {
+        "name": "Hoardings",
+        "ingame_name": "Hoardings",
+        "wood_cost": "400",
+        "food_cost": "400",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 75
+    },
+    "380": {
+        "name": "Heated Shot",
+        "ingame_name": "Heated Shot",
+        "wood_cost": "0",
+        "food_cost": "350",
+        "gold_cost": "100",
+        "stone_cost": "0",
+        "train_time": 30
+    },
+    "381": {
+        "name": "C-Bonus, 1/2 TCs",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "382": {
+        "name": "C-Bonus, +1 Archer range",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "383": {
+        "name": "C-Bonus, +25% Shepherd",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "384": {
+        "name": "Heavy Eagle Warrior",
+        "ingame_name": "Eagle Warrior",
+        "wood_cost": "0",
+        "food_cost": "200",
+        "gold_cost": "200",
+        "stone_cost": "0",
+        "train_time": 50
+    },
+    "385": {
+        "name": "None",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "386": {
+        "name": "None",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "387": {
+        "name": "Upgrade Eagle in Age3",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "388": {
+        "name": "None",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "389": {
+        "name": "None",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "390": {
+        "name": "C-Bonus, Faster Fortifications",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "391": {
+        "name": "C-Bonus, +20%HP",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "392": {
+        "name": "C-Bonus, Free Wheel",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "393": {
+        "name": "None",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "394": {
+        "name": "None",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "395": {
+        "name": "C-Bonus, Vik Boats -15%",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "396": {
+        "name": "C-Bonus, +25% Demo HP",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "397": {
+        "name": "C-Bonus, +20% Fire atk",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "398": {
+        "name": "Elite Berserk",
+        "ingame_name": "Elite Berserk",
+        "wood_cost": "0",
+        "food_cost": "1300",
+        "gold_cost": "550",
+        "stone_cost": "0",
+        "train_time": 45
+    },
+    "399": {
+        "name": "Berserk",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "400": {
+        "name": "C-Bonus, Free Hand Cart",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "401": {
+        "name": "C-Bonus, +15% farmers",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "402": {
+        "name": "C-Bonus, +3 vs Wild Boar",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "403": {
+        "name": "C-Bonus, archer range +1",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "404": {
+        "name": "C-Bonus, Galley +20% fire",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "405": {
+        "name": "C-Bonus, Dominant LOS",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "406": {
+        "name": "C-Bonus, +10 pop",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "407": {
+        "name": "Monk Ranged Heal",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "408": {
+        "name": "Spy Technology",
+        "ingame_name": "Spies/Treason",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "200",
+        "stone_cost": "0",
+        "train_time": 1
+    },
+    "409": {
+        "name": "C-Bonus, TC +10%",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "410": {
+        "name": "C-Bonus, TC +15%",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "411": {
+        "name": "C-Bonus, TC +20%",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "412": {
+        "name": "C-Bonus, Dock +10%",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "413": {
+        "name": "C-Bonus, Dock +15%",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "414": {
+        "name": "C-Bonus, Dock +20%",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "415": {
+        "name": "C-Bonus, +15%HP",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "416": {
+        "name": "C-Bonus, +10%HP",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "417": {
+        "name": "C-Bonus, Bld +20%",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "418": {
+        "name": "C-Bonus, Bld +30%",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "419": {
+        "name": "C-Bonus, Bld +40%",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "420": {
+        "name": "C-Bonus",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "421": {
+        "name": "C-Bonus",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "422": {
+        "name": "C-Bonus",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "423": {
+        "name": "C-Bonus",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "424": {
+        "name": "C-Bonus",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "425": {
+        "name": "C-Bonus Chinese TC POP",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "426": {
+        "name": "Petard (make avail)",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "427": {
+        "name": "Genitour (make avail)",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "428": {
+        "name": "Hussar",
+        "ingame_name": "Hussar",
+        "wood_cost": "0",
+        "food_cost": "500",
+        "gold_cost": "600",
+        "stone_cost": "0",
+        "train_time": 50
+    },
+    "429": {
+        "name": "Halberdier",
+        "ingame_name": "Halberdier",
+        "wood_cost": "0",
+        "food_cost": "300",
+        "gold_cost": "600",
+        "stone_cost": "0",
+        "train_time": 50
+    },
+    "430": {
+        "name": "Elite Genitour",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "800",
+        "gold_cost": "500",
+        "stone_cost": "0",
+        "train_time": 45
+    },
+    "431": {
+        "name": "Jaguar Man",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "432": {
+        "name": "Elite Jaguar Man",
+        "ingame_name": "Elite Jaguar Warrior",
+        "wood_cost": "0",
+        "food_cost": "1000",
+        "gold_cost": "500",
+        "stone_cost": "0",
+        "train_time": 45
+    },
+    "433": {
+        "name": "Eagle Warrior (make avail)",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "434": {
+        "name": "Elite Eagle Warrior",
+        "ingame_name": "Elite Eagle Warrior",
+        "wood_cost": "0",
+        "food_cost": "800",
+        "gold_cost": "500",
+        "stone_cost": "0",
+        "train_time": 50
+    },
+    "435": {
+        "name": "Bloodlines",
+        "ingame_name": "Bloodlines",
+        "wood_cost": "0",
+        "food_cost": "150",
+        "gold_cost": "100",
+        "stone_cost": "0",
+        "train_time": 50
+    },
+    "436": {
+        "name": "Parthian Tactics",
+        "ingame_name": "Parthian Tactics",
+        "wood_cost": "0",
+        "food_cost": "200",
+        "gold_cost": "250",
+        "stone_cost": "0",
+        "train_time": 65
+    },
+    "437": {
+        "name": "Thumb Ring",
+        "ingame_name": "Thumb Ring",
+        "wood_cost": "250",
+        "food_cost": "300",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 45
+    },
+    "438": {
+        "name": "Theocracy",
+        "ingame_name": "Theocracy",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "200",
+        "stone_cost": "0",
+        "train_time": 75
+    },
+    "439": {
+        "name": "Heresy",
+        "ingame_name": "Heresy",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "1000",
+        "stone_cost": "0",
+        "train_time": 60
+    },
+    "440": {
+        "name": "Spanish Supremacy",
+        "ingame_name": "Supremacy",
+        "wood_cost": "0",
+        "food_cost": "400",
+        "gold_cost": "250",
+        "stone_cost": "0",
+        "train_time": 60
+    },
+    "441": {
+        "name": "Herbal Medicine",
+        "ingame_name": "Herbal Medicine",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "350",
+        "stone_cost": "0",
+        "train_time": 35
+    },
+    "442": {
+        "name": "Free Guard Tower",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "443": {
+        "name": "Free Keep",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "444": {
+        "name": "Free Bombard Tower",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "445": {
+        "name": "Korean catapults",
+        "ingame_name": "Shinkichon",
+        "wood_cost": "800",
+        "food_cost": "0",
+        "gold_cost": "500",
+        "stone_cost": "0",
+        "train_time": 60
+    },
+    "446": {
+        "name": "Huskarl (make avail)",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "447": {
+        "name": "Turtle Ship (make avail)",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "448": {
+        "name": "Elite Turtle Ship",
+        "ingame_name": "Elite Turtle Ship",
+        "wood_cost": "0",
+        "food_cost": "1000",
+        "gold_cost": "800",
+        "stone_cost": "0",
+        "train_time": 65
+    },
+    "449": {
+        "name": "War Wagon",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "450": {
+        "name": "Elite War Wagon",
+        "ingame_name": "Elite War Wagon",
+        "wood_cost": "1000",
+        "food_cost": "0",
+        "gold_cost": "800",
+        "stone_cost": "0",
+        "train_time": 75
+    },
+    "451": {
+        "name": "Tower Range +1",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "452": {
+        "name": "Tower Range +2",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "453": {
+        "name": "Tower Range +3",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "454": {
+        "name": "Upgrade Eagle in Age3",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "455": {
+        "name": "Upgrade Eagle in Age3",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "456": {
+        "name": "C-Bonus, +5 monk HP",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "457": {
+        "name": "Gothic Perfusion",
+        "ingame_name": "Perfusion",
+        "wood_cost": "400",
+        "food_cost": "0",
+        "gold_cost": "600",
+        "stone_cost": "0",
+        "train_time": 40
+    },
+    "458": {
+        "name": "C-Bonus, 35% CA",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "459": {
+        "name": "C-Bonus, 40% CA",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "460": {
+        "name": "Aztec Sacrifice",
+        "ingame_name": "Atlatl",
+        "wood_cost": "0",
+        "food_cost": "400",
+        "gold_cost": "350",
+        "stone_cost": "0",
+        "train_time": 40
+    },
+    "461": {
+        "name": "Britons City Rights",
+        "ingame_name": "Warwolf",
+        "wood_cost": "500",
+        "food_cost": "0",
+        "gold_cost": "250",
+        "stone_cost": "0",
+        "train_time": 40
+    },
+    "462": {
+        "name": "Chinese Great Wall",
+        "ingame_name": "Great Wall",
+        "wood_cost": "400",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "200",
+        "train_time": 40
+    },
+    "463": {
+        "name": "Viking Chieftains",
+        "ingame_name": "Chieftains",
+        "wood_cost": "0",
+        "food_cost": "400",
+        "gold_cost": "300",
+        "stone_cost": "0",
+        "train_time": 40
+    },
+    "464": {
+        "name": "Byzantines Greek Fire",
+        "ingame_name": "Greek Fire",
+        "wood_cost": "0",
+        "food_cost": "250",
+        "gold_cost": "300",
+        "stone_cost": "0",
+        "train_time": 40
+    },
+    "465": {
+        "name": "Cartography",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "466": {
+        "name": "C-Bonus Free War Galley",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "467": {
+        "name": "Genoese Bow (make avail)",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "468": {
+        "name": "Elite Genoese Bow",
+        "ingame_name": "Elite Genoese Crossbowman",
+        "wood_cost": "0",
+        "food_cost": "900",
+        "gold_cost": "750",
+        "stone_cost": "0",
+        "train_time": 60
+    },
+    "469": {
+        "name": "New Research",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "470": {
+        "name": "Wonder Built",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "471": {
+        "name": "Magyar Huszar (make avail)",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "472": {
+        "name": "Elite Magyar Huszar",
+        "ingame_name": "Elite Magyar Huszar",
+        "wood_cost": "0",
+        "food_cost": "800",
+        "gold_cost": "600",
+        "stone_cost": "0",
+        "train_time": 60
+    },
+    "473": {
+        "name": "C-Bonus Lcav Cheaper",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "474": {
+        "name": "C-Bonus Vil Forging",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "475": {
+        "name": "C-Bonus Vil Iron Casting",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "476": {
+        "name": "C-Bonus Vil Blast Furnace",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "477": {
+        "name": "C-Bonus Vil Scale Armor",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "478": {
+        "name": "C-Bonus Vil Chain Armor",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "479": {
+        "name": "C-Bonus Vil Plate Armor",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "480": {
+        "name": "Elephant Archer (make avail)",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "481": {
+        "name": "Elite Elephant Archer",
+        "ingame_name": "Elite Elephant Archer",
+        "wood_cost": "0",
+        "food_cost": "1000",
+        "gold_cost": "800",
+        "stone_cost": "0",
+        "train_time": 60
+    },
+    "482": {
+        "name": "Stronghold",
+        "ingame_name": "Stronghold",
+        "wood_cost": "0",
+        "food_cost": "250",
+        "gold_cost": "200",
+        "stone_cost": "0",
+        "train_time": 30
+    },
+    "483": {
+        "name": "Huns UT",
+        "ingame_name": "Marauders",
+        "wood_cost": "300",
+        "food_cost": "0",
+        "gold_cost": "200",
+        "stone_cost": "0",
+        "train_time": 40
+    },
+    "484": {
+        "name": "Japanese UT",
+        "ingame_name": "Yasama",
+        "wood_cost": "300",
+        "food_cost": "300",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 40
+    },
+    "485": {
+        "name": "Mayans UT",
+        "ingame_name": "Obsidian Arrows",
+        "wood_cost": "0",
+        "food_cost": "300",
+        "gold_cost": "300",
+        "stone_cost": "0",
+        "train_time": 40
+    },
+    "486": {
+        "name": "Koreans UT",
+        "ingame_name": "Panokseon",
+        "wood_cost": "300",
+        "food_cost": "300",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 40
+    },
+    "487": {
+        "name": "Mongols UT",
+        "ingame_name": "Nomads",
+        "wood_cost": "300",
+        "food_cost": "0",
+        "gold_cost": "150",
+        "stone_cost": "0",
+        "train_time": 40
+    },
+    "488": {
+        "name": "Persians UT",
+        "ingame_name": "Boiling Oil",
+        "wood_cost": "200",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "100",
+        "train_time": 40
+    },
+    "489": {
+        "name": "Teutons UT",
+        "ingame_name": "Ironclad",
+        "wood_cost": "400",
+        "food_cost": "0",
+        "gold_cost": "350",
+        "stone_cost": "0",
+        "train_time": 60
+    },
+    "490": {
+        "name": "Saracens UT",
+        "ingame_name": "Madrasah",
+        "wood_cost": "0",
+        "food_cost": "200",
+        "gold_cost": "100",
+        "stone_cost": "0",
+        "train_time": 30
+    },
+    "491": {
+        "name": "Sipahi",
+        "ingame_name": "Sipahi",
+        "wood_cost": "0",
+        "food_cost": "350",
+        "gold_cost": "150",
+        "stone_cost": "0",
+        "train_time": 60
+    },
+    "492": {
+        "name": "Spanish UT",
+        "ingame_name": "Inquisition",
+        "wood_cost": "0",
+        "food_cost": "100",
+        "gold_cost": "300",
+        "stone_cost": "0",
+        "train_time": 40
+    },
+    "493": {
+        "name": "Franks UT",
+        "ingame_name": "Chivalry",
+        "wood_cost": "400",
+        "food_cost": "0",
+        "gold_cost": "400",
+        "stone_cost": "0",
+        "train_time": 40
+    },
+    "494": {
+        "name": "Pavise",
+        "ingame_name": "Pavise",
+        "wood_cost": "0",
+        "food_cost": "300",
+        "gold_cost": "150",
+        "stone_cost": "0",
+        "train_time": 40
+    },
+    "495": {
+        "name": "C-Bonus, Houses +5 pop",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "496": {
+        "name": "C-Bonus, Villager cost -10%",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "497": {
+        "name": "C-Bonus, Villager cost -15%",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "498": {
+        "name": "C-Bonus, Villager cost -20%",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "499": {
+        "name": "Silk Route",
+        "ingame_name": "Silk Road",
+        "wood_cost": "0",
+        "food_cost": "500",
+        "gold_cost": "250",
+        "stone_cost": "0",
+        "train_time": 60
+    },
+    "500": {
+        "name": "C-Bonus, Gunpowder 20% cheaper",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "501": {
+        "name": "C-Bonus, Vik Boats -15%",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "502": {
+        "name": "C-Bonus, Vik Boats -20%",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "503": {
+        "name": "Boyar (make avail)",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "504": {
+        "name": "Elite Siege Tower",
+        "ingame_name": "Elite Boyar",
+        "wood_cost": "0",
+        "food_cost": "1000",
+        "gold_cost": "600",
+        "stone_cost": "0",
+        "train_time": 60
+    },
+    "505": {
+        "name": "C-Bonus, Camels Armor",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "506": {
+        "name": "Indians UT",
+        "ingame_name": "Sultans",
+        "wood_cost": "400",
+        "food_cost": "400",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 40
+    },
+    "507": {
+        "name": "Indians UT2",
+        "ingame_name": "Shatagni",
+        "wood_cost": "0",
+        "food_cost": "500",
+        "gold_cost": "300",
+        "stone_cost": "0",
+        "train_time": 40
+    },
+    "508": {
+        "name": "Kamayuk (make avail)",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "509": {
+        "name": "Elite Kamayuk",
+        "ingame_name": "Elite Kamayuk",
+        "wood_cost": "0",
+        "food_cost": "900",
+        "gold_cost": "500",
+        "stone_cost": "0",
+        "train_time": 45
+    },
+    "510": {
+        "name": "Siege Tower (make avail)",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "511": {
+        "name": "C-Bonus, Siege Units Cheaper",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "512": {
+        "name": "Slavs UT",
+        "ingame_name": "Orthodoxy",
+        "wood_cost": "0",
+        "food_cost": "200",
+        "gold_cost": "300",
+        "stone_cost": "0",
+        "train_time": 40
+    },
+    "513": {
+        "name": "Slavs UT",
+        "ingame_name": "Druzhina",
+        "wood_cost": "0",
+        "food_cost": "1200",
+        "gold_cost": "500",
+        "stone_cost": "0",
+        "train_time": 40
+    },
+    "514": {
+        "name": "Magyars UT",
+        "ingame_name": "Mercenaries",
+        "wood_cost": "0",
+        "food_cost": "200",
+        "gold_cost": "300",
+        "stone_cost": "0",
+        "train_time": 40
+    },
+    "515": {
+        "name": "Indians UT",
+        "ingame_name": "Recurve Bow",
+        "wood_cost": "600",
+        "food_cost": "0",
+        "gold_cost": "400",
+        "stone_cost": "0",
+        "train_time": 40
+    },
+    "516": {
+        "name": "Incas UT",
+        "ingame_name": "Andean Sling",
+        "wood_cost": "0",
+        "food_cost": "200",
+        "gold_cost": "300",
+        "stone_cost": "0",
+        "train_time": 40
+    },
+    "517": {
+        "name": "Indians UT",
+        "ingame_name": "Couriers",
+        "wood_cost": "0",
+        "food_cost": "600",
+        "gold_cost": "600",
+        "stone_cost": "0",
+        "train_time": 40
+    },
+    "518": {
+        "name": "C-Bonus, Fisher Carry +25",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "519": {
+        "name": "C-Bonus, -20% Stone cost",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "520": {
+        "name": "C-Bonus, Archer HP",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "521": {
+        "name": "Heavy Camel",
+        "ingame_name": "Imperial Camel",
+        "wood_cost": "0",
+        "food_cost": "1200",
+        "gold_cost": "600",
+        "stone_cost": "0",
+        "train_time": 125
+    },
+    "522": {
+        "name": "Condottiero (make avail)",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "523": {
+        "name": "Palisade Gate (make avail)",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "524": {
+        "name": "C-Bonus, +25% faster foragers",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "525": {
+        "name": "Fire Tower (make avail)",
+        "ingame_name": "Revetments",
+        "wood_cost": "10",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 10
+    },
+    "526": {
+        "name": "Hunting Dogs",
+        "ingame_name": "Hunting Dogs",
+        "wood_cost": "25",
+        "food_cost": "40",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 15
+    },
+    "527": {
+        "name": "Fire Tower (make avail)",
+        "ingame_name": "Fire Tower",
+        "wood_cost": "10",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 10
+    },
+    "528": {
+        "name": "Slinger (make avail)",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "529": {
+        "name": "",
+        "ingame_name": "Britons",
+        "wood_cost": "1",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "530": {
+        "name": "",
+        "ingame_name": "Franks",
+        "wood_cost": "1",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "531": {
+        "name": "",
+        "ingame_name": "Goths",
+        "wood_cost": "1",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "532": {
+        "name": "",
+        "ingame_name": "Teutons",
+        "wood_cost": "1",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "533": {
+        "name": "",
+        "ingame_name": "Japanese",
+        "wood_cost": "1",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "534": {
+        "name": "",
+        "ingame_name": "Chinese",
+        "wood_cost": "1",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "535": {
+        "name": "",
+        "ingame_name": "Byzantines",
+        "wood_cost": "1",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "536": {
+        "name": "",
+        "ingame_name": "Persians",
+        "wood_cost": "1",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "537": {
+        "name": "",
+        "ingame_name": "Saracens",
+        "wood_cost": "1",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "538": {
+        "name": "",
+        "ingame_name": "Turks",
+        "wood_cost": "1",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "539": {
+        "name": "",
+        "ingame_name": "Vikings",
+        "wood_cost": "1",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "540": {
+        "name": "",
+        "ingame_name": "Mongols",
+        "wood_cost": "1",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "541": {
+        "name": "",
+        "ingame_name": "Celts",
+        "wood_cost": "1",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "542": {
+        "name": "",
+        "ingame_name": "Spanish",
+        "wood_cost": "1",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "543": {
+        "name": "",
+        "ingame_name": "Aztecs",
+        "wood_cost": "1",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "544": {
+        "name": "",
+        "ingame_name": "Mayans",
+        "wood_cost": "1",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "545": {
+        "name": "",
+        "ingame_name": "Huns",
+        "wood_cost": "1",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "546": {
+        "name": "",
+        "ingame_name": "Koreans",
+        "wood_cost": "1",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "547": {
+        "name": "",
+        "ingame_name": "Italians",
+        "wood_cost": "1",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "548": {
+        "name": "",
+        "ingame_name": "Indians",
+        "wood_cost": "1",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "549": {
+        "name": "",
+        "ingame_name": "Incas",
+        "wood_cost": "1",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "550": {
+        "name": "",
+        "ingame_name": "Magyars",
+        "wood_cost": "1",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "551": {
+        "name": "",
+        "ingame_name": "Slavs",
+        "wood_cost": "1",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "552": {
+        "name": "Hunting Dogs",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "553": {
+        "name": "C-Bonus, Villager cost -25%",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "554": {
+        "name": "C-Bonus, Start w/ 4 villagers",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "555": {
+        "name": "Enable sheep",
+        "ingame_name": "Enable Sheep",
+        "wood_cost": "25",
+        "food_cost": "40",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 15
+    },
+    "556": {
+        "name": "Enable llamas",
+        "ingame_name": "Enable Llamas",
+        "wood_cost": "25",
+        "food_cost": "40",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 15
+    },
+    "557": {
+        "name": "Enable cows",
+        "ingame_name": "Enable Cows",
+        "wood_cost": "25",
+        "food_cost": "40",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 15
+    },
+    "558": {
+        "name": "Enable turkeys",
+        "ingame_name": "Enable Turkeys",
+        "wood_cost": "25",
+        "food_cost": "40",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 15
+    },
+    "559": {
+        "name": "C-Bonus, All units -15% gold",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "560": {
+        "name": "C-Bonus, Ships +10% faster",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "561": {
+        "name": "C-Bonus, University +80% faste",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "562": {
+        "name": "Organ Gun (make avail)",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "563": {
+        "name": "Elite Organ Gun",
+        "ingame_name": "Elite Organ Gun",
+        "wood_cost": "0",
+        "food_cost": "1200",
+        "gold_cost": "500",
+        "stone_cost": "0",
+        "train_time": 45
+    },
+    "564": {
+        "name": "Camel Archer (make avail)",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "565": {
+        "name": "Elite Camel Archer",
+        "ingame_name": "Elite Camel Archer",
+        "wood_cost": "1000",
+        "food_cost": "0",
+        "gold_cost": "500",
+        "stone_cost": "0",
+        "train_time": 45
+    },
+    "566": {
+        "name": "Gbeto (make avail)",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "567": {
+        "name": "Elite Mali Unit",
+        "ingame_name": "Elite Gbeto",
+        "wood_cost": "0",
+        "food_cost": "900",
+        "gold_cost": "600",
+        "stone_cost": "0",
+        "train_time": 45
+    },
+    "568": {
+        "name": "Shotel Warrior (make avail)",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "569": {
+        "name": "Elite Ethiopia Unit",
+        "ingame_name": "Elite Shotel Warrior",
+        "wood_cost": "0",
+        "food_cost": "1200",
+        "gold_cost": "550",
+        "stone_cost": "0",
+        "train_time": 45
+    },
+    "570": {
+        "name": "Feitoria (make avail)",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "571": {
+        "name": "C-Bonus, Animals decay",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "572": {
+        "name": "Portuguese UT",
+        "ingame_name": "Carrack",
+        "wood_cost": "200",
+        "food_cost": "0",
+        "gold_cost": "300",
+        "stone_cost": "0",
+        "train_time": 40
+    },
+    "573": {
+        "name": "Portuguese UT",
+        "ingame_name": "Arquebus",
+        "wood_cost": "0",
+        "food_cost": "700",
+        "gold_cost": "400",
+        "stone_cost": "0",
+        "train_time": 40
+    },
+    "574": {
+        "name": "Ethiopian UT",
+        "ingame_name": "Royal Heirs",
+        "wood_cost": "0",
+        "food_cost": "300",
+        "gold_cost": "300",
+        "stone_cost": "0",
+        "train_time": 40
+    },
+    "575": {
+        "name": "Ethiopian UT",
+        "ingame_name": "Torsion Engines",
+        "wood_cost": "0",
+        "food_cost": "1000",
+        "gold_cost": "600",
+        "stone_cost": "0",
+        "train_time": 40
+    },
+    "576": {
+        "name": "Malian UT",
+        "ingame_name": "Tigui",
+        "wood_cost": "300",
+        "food_cost": "200",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 40
+    },
+    "577": {
+        "name": "Malian UT",
+        "ingame_name": "Farimba",
+        "wood_cost": "0",
+        "food_cost": "650",
+        "gold_cost": "400",
+        "stone_cost": "0",
+        "train_time": 40
+    },
+    "578": {
+        "name": "Berber UT",
+        "ingame_name": "Kasbah",
+        "wood_cost": "0",
+        "food_cost": "250",
+        "gold_cost": "250",
+        "stone_cost": "0",
+        "train_time": 40
+    },
+    "579": {
+        "name": "Berber UT",
+        "ingame_name": "Maghrabi Camels",
+        "wood_cost": "0",
+        "food_cost": "700",
+        "gold_cost": "300",
+        "stone_cost": "0",
+        "train_time": 40
+    },
+    "580": {
+        "name": "",
+        "ingame_name": "Portuguese",
+        "wood_cost": "1",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "581": {
+        "name": "",
+        "ingame_name": "Ethiopians",
+        "wood_cost": "1",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "582": {
+        "name": "",
+        "ingame_name": "Malians",
+        "wood_cost": "1",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "583": {
+        "name": "",
+        "ingame_name": "Berbers",
+        "wood_cost": "1",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "584": {
+        "name": "C-Bonus, Villagers +10% faster",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "585": {
+        "name": "C-Bonus, Ships +10% faster",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "586": {
+        "name": "C-Bonus, Stable units -15% che",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "587": {
+        "name": "C-Bonus, +100 gold, food feuda",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "588": {
+        "name": "C-Bonus, +100 gold, food castl",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "589": {
+        "name": "C-Bonus, +100 gold, food imp",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "590": {
+        "name": "C-Bonus, free pike",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "591": {
+        "name": "C-Bonus, inf +1 armor feudal",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "592": {
+        "name": "C-Bonus, inf +1 armor castle",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "593": {
+        "name": "C-Bonus, inf +1 armor imp",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "594": {
+        "name": "C-Bonus, free gold mining",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "595": {
+        "name": "C-Bonus, buildings cost -15% w",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "596": {
+        "name": "Caravel (make avail)",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "597": {
+        "name": "Elite Caravel",
+        "ingame_name": "Elite Caravel",
+        "wood_cost": "0",
+        "food_cost": "750",
+        "gold_cost": "475",
+        "stone_cost": "0",
+        "train_time": 60
+    },
+    "598": {
+        "name": "Genitour (make avail)",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "599": {
+        "name": "Elite Genitour",
+        "ingame_name": "Elite Genitour",
+        "wood_cost": "450",
+        "food_cost": "500",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 60
+    },
+    "600": {
+        "name": "T-Bonus, Free Cartography",
+        "ingame_name": "Free Cartography",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "601": {
+        "name": "Genitour (make avail)",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "602": {
+        "name": "Arson",
+        "ingame_name": "Arson",
+        "wood_cost": "0",
+        "food_cost": "150",
+        "gold_cost": "50",
+        "stone_cost": "0",
+        "train_time": 25
+    },
+    "603": {
+        "name": "Siege Tower (make avail)",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "604": {
+        "name": "Fire Galley (make avail)",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "605": {
+        "name": "Demo Galley (make avail)",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "606": {
+        "name": "Genitour (disable)",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "607": {
+        "name": "C-Bonus, Archers fire +15% fas",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "608": {
+        "name": "Arrowslits",
+        "ingame_name": "Arrowslits",
+        "wood_cost": "250",
+        "food_cost": "250",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 25
+    },
+    "609": {
+        "name": "Chemistry + Torsion",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "610": {
+        "name": "Arrowslits (Guard tower)",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "611": {
+        "name": "Arrowslits (Keep)",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "612": {
+        "name": "Fire ships auto ballistics",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "613": {
+        "name": "C-Bonus, Stable units -20% che",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "614": {
+        "name": "Ballista Elephant (make avail)",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "615": {
+        "name": "Elite Ballista Elephant",
+        "ingame_name": "Elite Ballista Elephant",
+        "wood_cost": "0",
+        "food_cost": "1000",
+        "gold_cost": "500",
+        "stone_cost": "0",
+        "train_time": 70
+    },
+    "616": {
+        "name": "Karambit Warrior (make avail)",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "617": {
+        "name": "Elite Karambit Warrior",
+        "ingame_name": "Elite Karambit Warrior",
+        "wood_cost": "0",
+        "food_cost": "900",
+        "gold_cost": "600",
+        "stone_cost": "0",
+        "train_time": 40
+    },
+    "618": {
+        "name": "Arambai (make avail)",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "619": {
+        "name": "Elite Arambai",
+        "ingame_name": "Elite Arambai",
+        "wood_cost": "0",
+        "food_cost": "1100",
+        "gold_cost": "675",
+        "stone_cost": "0",
+        "train_time": 65
+    },
+    "620": {
+        "name": "Rattan Archer (make avail)",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "621": {
+        "name": "Elite Rattan Archer",
+        "ingame_name": "Elite Rattan Archer",
+        "wood_cost": "0",
+        "food_cost": "1000",
+        "gold_cost": "750",
+        "stone_cost": "0",
+        "train_time": 45
+    },
+    "622": {
+        "name": "Khmer UT",
+        "ingame_name": "Tusk Swords",
+        "wood_cost": "200",
+        "food_cost": "0",
+        "gold_cost": "300",
+        "stone_cost": "0",
+        "train_time": 40
+    },
+    "623": {
+        "name": "Khmer UT",
+        "ingame_name": "Double Crossbow",
+        "wood_cost": "0",
+        "food_cost": "700",
+        "gold_cost": "400",
+        "stone_cost": "0",
+        "train_time": 40
+    },
+    "624": {
+        "name": "Malay UT",
+        "ingame_name": "Thalassocracy",
+        "wood_cost": "0",
+        "food_cost": "300",
+        "gold_cost": "300",
+        "stone_cost": "0",
+        "train_time": 40
+    },
+    "625": {
+        "name": "Malay UT",
+        "ingame_name": "Forced Levy",
+        "wood_cost": "0",
+        "food_cost": "1000",
+        "gold_cost": "600",
+        "stone_cost": "0",
+        "train_time": 40
+    },
+    "626": {
+        "name": "Burmese UT",
+        "ingame_name": "Howdah",
+        "wood_cost": "300",
+        "food_cost": "400",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 40
+    },
+    "627": {
+        "name": "Burmese UT",
+        "ingame_name": "Manipur Cavalry",
+        "wood_cost": "0",
+        "food_cost": "650",
+        "gold_cost": "400",
+        "stone_cost": "0",
+        "train_time": 40
+    },
+    "628": {
+        "name": "Vietnamese UT",
+        "ingame_name": "Chatras",
+        "wood_cost": "0",
+        "food_cost": "250",
+        "gold_cost": "250",
+        "stone_cost": "0",
+        "train_time": 40
+    },
+    "629": {
+        "name": "Vietnamese UT",
+        "ingame_name": "Paper Money",
+        "wood_cost": "0",
+        "food_cost": "800",
+        "gold_cost": "200",
+        "stone_cost": "0",
+        "train_time": 40
+    },
+    "630": {
+        "name": "Battle Elephant (make avail)",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "631": {
+        "name": "Elite Battle Elephant",
+        "ingame_name": "Elite Battle Elephant",
+        "wood_cost": "0",
+        "food_cost": "1200",
+        "gold_cost": "900",
+        "stone_cost": "0",
+        "train_time": 100
+    },
+    "632": {
+        "name": "C-Bonus, Archers +20% HP",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "633": {
+        "name": "C-Bonus, inf +1 attack dark",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "634": {
+        "name": "C-Bonus, Age up faster",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "635": {
+        "name": "C-Bonus, Fish Trap -25% cheape",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "636": {
+        "name": "Aztec Demolition ship (disable",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "637": {
+        "name": "C-Bonus, Infinite fish traps",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "638": {
+        "name": "Khmer Building Bonus",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "639": {
+        "name": "C-Bonus, +2% cav HP feudal",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "640": {
+        "name": "C-Bonus, +2% cav HP castle",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "641": {
+        "name": "C-Bonus, +2% cav HP imp",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "642": {
+        "name": "C-Bonus, +2% arc HP feudal",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "643": {
+        "name": "C-Bonus, +2% arc HP castle",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "644": {
+        "name": "C-Bonus, +2% arc HP imp",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "645": {
+        "name": "C-Bonus, free lumberjack upgra",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "646": {
+        "name": "C-Bonus, inf +1 attack feudal",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "647": {
+        "name": "C-Bonus, inf +1 attack castle",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "648": {
+        "name": "C-Bonus, inf +1 attack imp",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "649": {
+        "name": "C-Bonus, monastry techs -50% c",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "650": {
+        "name": "",
+        "ingame_name": "Khmer",
+        "wood_cost": "1",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "651": {
+        "name": "",
+        "ingame_name": "Malay",
+        "wood_cost": "1",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "652": {
+        "name": "",
+        "ingame_name": "Burmese",
+        "wood_cost": "1",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "653": {
+        "name": "",
+        "ingame_name": "Vietnamese",
+        "wood_cost": "1",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "654": {
+        "name": "RESERVED",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "655": {
+        "name": "Imperial Skirmisher",
+        "ingame_name": "Imperial Skirmisher",
+        "wood_cost": "300",
+        "food_cost": "0",
+        "gold_cost": "450",
+        "stone_cost": "0",
+        "train_time": 50
+    },
+    "656": {
+        "name": "Imperial Skirmisher (disable)",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "657": {
+        "name": "C-Bonus, houses garrison",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "658": {
+        "name": "Set Max pop (no houses)",
+        "ingame_name": "Set maximum population (no Houses)",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "659": {
+        "name": "Shadow Node+ for Age Two",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "660": {
+        "name": "Shadow Node+ for Age Three",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "661": {
+        "name": "Shadow Node+ for Age Four",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "662": {
+        "name": "C-Bonus, Battle Ele cheaper",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "663": {
+        "name": "C-Bonus, Archers +15% HP",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "664": {
+        "name": "C-Bonus, Archers +20% HP",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "665": {
+        "name": "C-Bonus, Disable Vietnamese LO",
+        "ingame_name": "Disable Vietnamese Vision",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 15
+    },
+    "666": {
+        "name": "Shadow Node Mill + Khmer",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "667": {
+        "name": "Shadow Node Barracks + Khmer",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "668": {
+        "name": "Shadow Node Blacksmith + Khmer",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "669": {
+        "name": "Thalassocracy + Fletching",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "670": {
+        "name": "Thalassocracy + Bodkin",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "671": {
+        "name": "Thalassocracy + Bracer",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "672": {
+        "name": "C-Bonus, Battle ele +15% faste",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "673": {
+        "name": "Llama bonus",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "674": {
+        "name": "Disable Llama bonus",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "675": {
+        "name": "RESERVED",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "676": {
+        "name": "RESERVED",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "677": {
+        "name": "RESERVED",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "678": {
+        "name": "RESERVED",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "679": {
+        "name": "RESERVED",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "680": {
+        "name": "RESERVED",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "681": {
+        "name": "RESERVED",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "682": {
+        "name": "RESERVED",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "683": {
+        "name": "RESERVED",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "684": {
+        "name": "RESERVED",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "685": {
+        "name": "RESERVED",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "686": {
+        "name": "RESERVED",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "687": {
+        "name": "RESERVED",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "688": {
+        "name": "RESERVED",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "689": {
+        "name": "RESERVED",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "690": {
+        "name": "RESERVED",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "691": {
+        "name": "RESERVED",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "692": {
+        "name": "RESERVED",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "693": {
+        "name": "RESERVED",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "694": {
+        "name": "RESERVED",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "695": {
+        "name": "RESERVED",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "696": {
+        "name": "RESERVED",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "697": {
+        "name": "RESERVED",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "698": {
+        "name": "RESERVED",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "699": {
+        "name": "RESERVED",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "700": {
+        "name": "RESERVED",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "701": {
+        "name": "RESERVED",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "702": {
+        "name": "RESERVED",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "703": {
+        "name": "RESERVED",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "704": {
+        "name": "RESERVED",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "705": {
+        "name": "RESERVED",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "706": {
+        "name": "RESERVED",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "707": {
+        "name": "RESERVED",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "708": {
+        "name": "RESERVED",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "709": {
+        "name": "RESERVED",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "710": {
+        "name": "RESERVED",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "711": {
+        "name": "RESERVED",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "712": {
+        "name": "RESERVED",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "713": {
+        "name": "RESERVED",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "714": {
+        "name": "RESERVED",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "715": {
+        "name": "RESERVED",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "716": {
+        "name": "RESERVED",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "717": {
+        "name": "RESERVED",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "718": {
+        "name": "RESERVED",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "719": {
+        "name": "RESERVED",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "720": {
+        "name": "RESERVED",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "721": {
+        "name": "RESERVED",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "722": {
+        "name": "RESERVED",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "723": {
+        "name": "RESERVED",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "724": {
+        "name": "RESERVED",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "725": {
+        "name": "RESERVED",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "726": {
+        "name": "RESERVED",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "727": {
+        "name": "RESERVED",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "728": {
+        "name": "RESERVED",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "729": {
+        "name": "RESERVED",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "730": {
+        "name": "RESERVED",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "731": {
+        "name": "RESERVED",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "732": {
+        "name": "RESERVED",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "733": {
+        "name": "RESERVED",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "734": {
+        "name": "RESERVED",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "735": {
+        "name": "RESERVED",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "736": {
+        "name": "RESERVED",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "737": {
+        "name": "RESERVED",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "738": {
+        "name": "RESERVED",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "739": {
+        "name": "RESERVED",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "740": {
+        "name": "RESERVED",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "741": {
+        "name": "RESERVED",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "742": {
+        "name": "RESERVED",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "743": {
+        "name": "RESERVED",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "744": {
+        "name": "RESERVED",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "745": {
+        "name": "RESERVED",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "746": {
+        "name": "RESERVED",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "747": {
+        "name": "RESERVED",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "748": {
+        "name": "RESERVED",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "749": {
+        "name": "RESERVED",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "750": {
+        "name": "RESERVED",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "751": {
+        "name": "RESERVED",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "752": {
+        "name": "RESERVED",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "753": {
+        "name": "RESERVED",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "754": {
+        "name": "RESERVED",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "755": {
+        "name": "RESERVED",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "756": {
+        "name": "RESERVED",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "757": {
+        "name": "RESERVED",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "758": {
+        "name": "RESERVED",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "759": {
+        "name": "RESERVED",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "760": {
+        "name": "RESERVED",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "761": {
+        "name": "RESERVED",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "762": {
+        "name": "RESERVED",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "763": {
+        "name": "RESERVED",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "764": {
+        "name": "RESERVED",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "765": {
+        "name": "RESERVED",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "766": {
+        "name": "RESERVED",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "767": {
+        "name": "RESERVED",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "768": {
+        "name": "RESERVED",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "769": {
+        "name": "RESERVED",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "770": {
+        "name": "RESERVED",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "771": {
+        "name": "RESERVED",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "772": {
+        "name": "RESERVED",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "773": {
+        "name": "RESERVED",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "774": {
+        "name": "RESERVED",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "775": {
+        "name": "RESERVED",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "776": {
+        "name": "RESERVED",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "777": {
+        "name": "RESERVED",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "778": {
+        "name": "RESERVED",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "779": {
+        "name": "RESERVED",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "780": {
+        "name": "RESERVED",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "781": {
+        "name": "RESERVED",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "782": {
+        "name": "RESERVED",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "783": {
+        "name": "RESERVED",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "784": {
+        "name": "RESERVED",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "785": {
+        "name": "RESERVED",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "786": {
+        "name": "RESERVED",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "787": {
+        "name": "RESERVED",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "788": {
+        "name": "RESERVED",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "789": {
+        "name": "RESERVED",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "790": {
+        "name": "RESERVED",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "791": {
+        "name": "RESERVED",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "792": {
+        "name": "RESERVED",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "793": {
+        "name": "RESERVED",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "794": {
+        "name": "RESERVED",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "795": {
+        "name": "RESERVED",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "796": {
+        "name": "RESERVED",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "797": {
+        "name": "RESERVED",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "798": {
+        "name": "RESERVED",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "799": {
+        "name": "RESERVED",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "800": {
+        "name": "RESERVED",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "801": {
+        "name": "",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "802": {
+        "name": "",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    },
+    "803": {
+        "name": "Enable Relic LoS",
+        "ingame_name": "",
+        "wood_cost": "0",
+        "food_cost": "0",
+        "gold_cost": "0",
+        "stone_cost": "0",
+        "train_time": 0
+    }
+}
