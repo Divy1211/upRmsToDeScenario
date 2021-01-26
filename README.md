@@ -7,8 +7,11 @@
 
 1. You must have [python3.8+](https://www.python.org/downloads/) installed.
 2. After you have installed python, open cmd/terminal and run the following commands:
+
   `pip install AoE2ScenarioParser`
+  
   `pip install bidict`
+  
 Once you've done this, you're good to go!
 
 # How to use the tool?
