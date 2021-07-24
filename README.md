@@ -1,7 +1,7 @@
 # UP RMS To DE Scenario Conversion Tool
 1. This python script allows you to take an RMS from AoC UserPatch/voobly/wololo kingdoms and use the effect_amount, guard_state, effect_percent used in that RMS to generate a scenario for AoE2DE which has the same effects as the RMS!
 
-2. Note: DE's Update on 25/1/2021 re-introduces effect_amount and effect_percent in RMS!
+2. Note: DE's Update on 25/1/2021 re-introduces effect_amount and effect_percent in RMS! This project is hence unecessary and is no longer maintained
 
 # Prerequisites, Installation
 
